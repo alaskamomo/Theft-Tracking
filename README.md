@@ -1,2 +1,2 @@
-# Personal-Projects
-A repo of all personal projects completed/in progress
+# Personal-Projects #1 : Theft Tracking 
+
